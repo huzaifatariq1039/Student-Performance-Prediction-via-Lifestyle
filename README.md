@@ -101,16 +101,6 @@ The script automatically handles data loading, preprocessing, model training, an
 - Quantified lifestyle impact assessment
 - Framework for intervention design
 
-## Project Structure
-
-```
-├── student_performance_classifier.py  # Main analysis script
-├── data/                              # Dataset storage
-├── results/                           # Generated visualizations
-├── models/                            # Trained model storage
-└── docs/                             # Additional documentation
-```
-
 ## Contributing
 
 We welcome contributions in several areas:
